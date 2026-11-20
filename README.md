@@ -1,104 +1,52 @@
-
-# 👋 Hi, I'm Jagadeswara Reddy P
+# Jagadeswara Reddy P
 
 ### Senior QA Engineer | Test Automation Engineer
 
-🚀 Quality Assurance professional with 10+ years of experience in software testing across web, mobile and enterprise applications. Experienced in manual testing, UI automation, API testing, regression testing and quality assurance processes.
+QA professional with **10+ years of experience** across web, mobile and enterprise applications. Experienced in manual testing, UI automation, API validation, regression testing and release validation.
 
-I enjoy improving software quality through reliable test automation, risk-based testing and scalable automation practices.
+I focus on understanding business workflows, designing meaningful test coverage, identifying risk early and building maintainable automation.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-| Category | Skills |
+| Area | Tools and skills |
 |---|---|
-| UI Automation | Playwright, Selenium WebDriver |
-| Programming | TypeScript, Java |
-| Automation Frameworks | Page Object Model, TestNG |
-| API Testing | Postman, REST API Testing |
-| Performance Testing | Apache JMeter |
+| UI automation | Playwright, TypeScript, Selenium WebDriver, Java |
+| API testing | Postman, REST API validation |
+| Performance | Apache JMeter |
 | Database | SQL |
-| Test Types | Functional, Regression, Smoke, Sanity, Integration, E2E, Exploratory |
-| Test Management | Test Planning, Test Cases, RTM, Defect Management |
-| Tools | JIRA, Git, GitHub, Maven |
-| Methodologies | Agile / Scrum |
+| Test management | Requirements analysis, test planning, test scenarios, test cases, RTM, defect lifecycle, triage |
+| Test types | Functional, integration, system, end-to-end, regression, smoke, sanity, exploratory, usability |
+| Ways of working | Agile / Scrum, JIRA, release validation |
+| Platforms | Web, Android, iOS, cross-browser and compatibility testing |
 
----
+## Featured portfolio project
 
-## 🚀 Automation Projects
+### [Playwright TypeScript Automation Framework](https://github.com/pjreddy837/playwright-typescript-framework)
 
-### 🎭 Playwright Automation Framework
-- UI automation using Playwright and TypeScript
-- Page Object Model architecture
-- Reusable test fixtures
-- Test data management
-- Assertions and validations
-- HTML reporting
-- Screenshots and traces
-- GitHub Actions CI
-
-### ☕ Selenium Automation Framework
-- Selenium WebDriver with Java
-- TestNG
-- Maven
+A public demo project that demonstrates:
 - Page Object Model
-- Reusable automation utilities
-- Regression automation
+- Reusable page classes and test data
+- Login and shopping-cart scenarios
+- Playwright HTML reports and failure diagnostics
+- GitHub Actions workflow
 
-### 🔗 REST API Testing
-- REST API validation
-- HTTP methods
-- Response validation
-- JSON assertions
-- Positive and negative scenarios
-- Postman collections
+The framework uses the public SauceDemo application for demonstration. It is a portfolio sample, not production client work.
 
-### 📊 Performance Testing
-- Apache JMeter
-- Load testing fundamentals
-- Performance metrics
-- Response time and throughput analysis
+## QA and domain experience
 
----
+- Telecom OSS/BSS applications
+- Enterprise ERP workflows
+- Healthcare applications
+- Web and mobile application testing
+- Requirements analysis, risk-based coverage, defect analysis and release readiness
 
-## 🧪 QA Expertise
+## Connect
 
-- Requirement Analysis
-- Test Scenario & Test Case Design
-- Functional Testing
-- Regression Testing
-- Smoke & Sanity Testing
-- Exploratory Testing
-- Web & Mobile Testing
-- Cross-Browser Testing
-- API Testing
-- Defect Lifecycle Management
-- Risk-Based Testing
-- Release Validation
+- **Email:** [pjreddy837@gmail.com](mailto:pjreddy837@gmail.com)
+- **Location:** Hyderabad, India
 
 ---
 
-## 💼 Domain Experience
-
-- Telecom OSS/BSS
-- Enterprise ERP Applications
-- Healthcare Applications
-- Web & Mobile Applications
-
----
-
-## 📈 My GitHub Journey
-
-I'm continuously improving my automation skills and building practical projects around modern test automation, framework design, API validation and CI/CD.
-
----
-
-## 📫 Connect
-
-📧 Email: pjreddy837@gmail.com
-
-📍 Hyderabad, India
-
----
-*Quality is not just testing the software — it's building confidence in every release.*
+*Quality is not just finding defects; it is building confidence in every release.*
